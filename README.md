@@ -1,2 +1,3 @@
 # casino-ethereum
-This is a simple casino build with solidity, truffle and react
+This is a simple casino build with solidity
+Wu Bohan with ethereum
